@@ -20,20 +20,28 @@ Here are some visualizations from the analysis:
 ![Sales Funnel](images/sales_funnel.png)
 
 ### Daily Conversion Rate Tracking
-![Conversion Rate](images/conversion_rate.png)
+![Conversion Rate](images/Daily_Conversion_Rate.png)
 
 ### Product Performance Analysis
-![Product Performance](images/product_performance.png)
+![Sales By Product](images/Sales_by_Product.png)
+![Sales By Brand](images/Sales Product.png)
 
 ### Monthly Sales Trend
-![Monthly Sales](Monthly trend.png)
+![Monthly Sales](images/Monthly_trend.png)
+
+### Conversion Funnel Analysis
+![Conversion Funnel Analysis](images/Conversional_Funnel_Analysis.png)
+
+### Top Selling Products
+![Top Selling Products](images/Top_Sellin_Products.png)
 
 ## How to Use
 
 1. Clone this repository.
-2. Install required dependencies using `pip install -r requirements.txt`.
-3. Review the [Project Report](link_to_your_report.pdf) for detailed insights.
-4. Explore the visualizations in the `images` folder.
+2. Download dataset in `data` folder.
+3. Install required dependencies using `pip install -r requirements.txt`.
+4. Review the [Project Report](link_to_your_report.pdf) for detailed insights.
+5. Explore the visualizations in the `images` folder.
 
 Feel free to reach out with any questions or feedback!
 
