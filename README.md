@@ -26,7 +26,7 @@ Here are some visualizations from the analysis:
 ![Product Performance](images/product_performance.png)
 
 ### Monthly Sales Trend
-![Monthly Sales](/Monthly trend.png)
+![Monthly Sales](Monthly trend.png)
 
 ## How to Use
 
