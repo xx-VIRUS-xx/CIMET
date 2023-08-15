@@ -38,7 +38,7 @@ Here are some visualizations from the analysis:
 ## How to Use
 
 1. Clone this repository.
-2. Download dataset in `data` folder.
+2. Create a folder named `data` and download the dataset in it.
 3. Install required dependencies using `pip install -r requirements.txt`.
 4. Review the [Project Report](link_to_your_report.pdf) for detailed insights.
 5. Explore the visualizations in the `images` folder.
