@@ -24,7 +24,7 @@ Here are some visualizations from the analysis:
 
 ### Product Performance Analysis
 ![Sales By Product](images/Sales_by_Product.png)
-![Sales By Brand](images/Sales Product.png)
+![Sales By Brand](images/Sales_By_Brand.png)
 
 ### Monthly Sales Trend
 ![Monthly Sales](images/Monthly_trend.png)
