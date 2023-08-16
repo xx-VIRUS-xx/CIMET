@@ -5,7 +5,7 @@ Welcome to the E-Commerce Analysis Project repository! This project involves ana
 ## Project Overview
 
 - **Objective:** Analyze e-commerce data to derive insights and make data-driven decisions.
-- **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Tableau.
+- **Tools Used:** Python, Pandas, Matplotlib.
 - **Data Source:** [Link to Dataset](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
 
 ## Report
